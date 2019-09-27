@@ -1,0 +1,11 @@
+﻿ItemID,ItemName,Buy,Sell,Attack,Defence,Heal
+1,Wooden Sword,2,1,5,0,0
+2,Wooden Shield,2,1,0,3,0
+3,Stone Sword,15,8,12,0,0
+4,Stone Shield,20,10,0,10,0
+5,Iron Sword,35,18,22,0,0
+6,Iron Shield,25,13,0,17,0
+7,Steak,5,3,0,0,5
+8,Diamond,0,25,0,0,0
+9,Gold,0,1,0,0,0
+10,Silver,0,10,0,0,0

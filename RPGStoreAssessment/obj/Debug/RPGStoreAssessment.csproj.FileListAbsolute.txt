@@ -1,0 +1,27 @@
+C:\Users\s199093\source\repos\RPGStoreAssessment\RPGStoreAssessment\bin\Debug\RPGStoreAssessment.exe.config
+C:\Users\s199093\source\repos\RPGStoreAssessment\RPGStoreAssessment\bin\Debug\RPGStoreAssessment.exe
+C:\Users\s199093\source\repos\RPGStoreAssessment\RPGStoreAssessment\bin\Debug\RPGStoreAssessment.pdb
+C:\Users\s199093\source\repos\RPGStoreAssessment\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.csprojAssemblyReference.cache
+C:\Users\s199093\source\repos\RPGStoreAssessment\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.csproj.CoreCompileInputs.cache
+C:\Users\s199093\source\repos\RPGStoreAssessment\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.exe
+C:\Users\s199093\source\repos\RPGStoreAssessment\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.pdb
+C:\Users\s199093\source\repos\RPGStoreAssessment\RPGStoreAssessment\bin\Debug\PlayerInvent.csv
+C:\Users\s199093\source\repos\RPGStoreAssessment\RPGStoreAssessment\bin\Debug\StoreItems.csv
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (2)\Assessment-master\RPGStoreAssessment\bin\Debug\PlayerInvent.csv
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (2)\Assessment-master\RPGStoreAssessment\bin\Debug\StoreItems.csv
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (2)\Assessment-master\RPGStoreAssessment\bin\Debug\RPGStoreAssessment.exe.config
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (2)\Assessment-master\RPGStoreAssessment\bin\Debug\RPGStoreAssessment.exe
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (2)\Assessment-master\RPGStoreAssessment\bin\Debug\RPGStoreAssessment.pdb
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (2)\Assessment-master\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.csprojResolveAssemblyReference.cache
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (2)\Assessment-master\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.csproj.CoreCompileInputs.cache
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (2)\Assessment-master\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.exe
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (2)\Assessment-master\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.pdb
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (6)\Assessment-master\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.csprojResolveAssemblyReference.cache
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (6)\Assessment-master\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.csproj.CoreCompileInputs.cache
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (6)\Assessment-master\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.pdb
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (6)\Assessment-master\RPGStoreAssessment\bin\Debug\PlayerInvent.csv
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (6)\Assessment-master\RPGStoreAssessment\bin\Debug\StoreItems.csv
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (6)\Assessment-master\RPGStoreAssessment\bin\Debug\RPGStoreAssessment.exe.config
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (6)\Assessment-master\RPGStoreAssessment\bin\Debug\RPGStoreAssessment.exe
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (6)\Assessment-master\RPGStoreAssessment\bin\Debug\RPGStoreAssessment.pdb
+C:\Users\AwesomeYoshi12\Downloads\Assessment-master (6)\Assessment-master\RPGStoreAssessment\obj\Debug\RPGStoreAssessment.exe

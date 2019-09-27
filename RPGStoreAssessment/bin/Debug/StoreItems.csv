@@ -1,0 +1,7 @@
+ItemID,ItemName,Buy,Sell,Attack,Defense,Heal
+Wooden Sword,2,1,5,0,0
+Wooden Shield,2,1,0,3,0
+Stone Sword,15,8,12,0,0
+Stone Shield,20,10,0,10,0
+Iron Sword,35,18,22,0,0
+Iron Shield,25,13,0,17,0
