@@ -8,13 +8,18 @@ namespace RPGStoreAssessment
 {
     class Enemy
     {
-        public string attckerName;
+        public string attackerName;
 
         public virtual void BattleDialouge()
         {
-            Console.WriteLine($"\n Prepare to die {Program.player.name}!!!");
+            Console.WriteLine($"\nPrepare to die {Program.player.name}!!!");
         }
-            
+
+        public virtual void ShieldDialougue()
+        {
+            Console.WriteLine($"\nI see that you chose to shield this attack,{Program.player.name}");
+        }
+           
         
     }
 }

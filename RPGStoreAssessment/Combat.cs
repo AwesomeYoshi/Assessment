@@ -21,7 +21,7 @@ namespace RPGStoreAssessment
             Enemy q = new Bandit();
             Enemy z = new Enemy();
             
-            q.attckerName = "Peter the Bandit";
+            q.attackerName = "Peter the Bandit";
             int hlt = ((Bandit)q).health = 57;
             int attk = ((Bandit)q).attack = 12;
  
@@ -31,7 +31,7 @@ namespace RPGStoreAssessment
             while (hlt > 0 && Program.player.health > 0)
             {
                 Console.Clear();
-                Console.WriteLine($"{q.attckerName}\nHP: {hlt}\nAttack Power: {attk}\n");
+                Console.WriteLine($"{q.attackerName}\nHP: {hlt}\nAttack Power: {attk}\n");
                 Console.WriteLine($"{Program.player.name}\nHP: {Program.player.health} Gold: {Program.player.gold}\n");
                 Console.WriteLine("////(A)ttack////");
                 Console.WriteLine("////(S)hield////");
@@ -72,7 +72,9 @@ namespace RPGStoreAssessment
                 }
                 else if (input == "S" || input == "Shield")
                 {
-                    int damage = (a / 3) - (rnd.Next(0, Inventory.SumDefense()));
+                    z.ShieldDialougue();
+
+                    int damage = (attk / 3) - (rnd.Next(0, Inventory.SumDefense()));
 
                     if (damage < 0)
                     {
@@ -86,7 +88,7 @@ namespace RPGStoreAssessment
 
                     Program.player.health -= damage;
 
-                    h -= attacks;
+                    hlt -= attacks;
 
                     if (Program.player.health <= 0)
                     {
@@ -114,9 +116,19 @@ namespace RPGStoreAssessment
         //The 2nd battle combat
         public static void SecondBattle()
         {
+            Enemy bst = new Beast();
+            bst.attackerName = "Sol the Beast";
+            int hlt = ((Beast)bst).health = 57;
+            int attk = ((Beast)bst).attack = 25;
+
             Console.WriteLine("\nYou made the decision to attack to beast for thier valuable resourses.");
             Console.ReadKey();
-            Battle(false, "Beast", 25, 57);
+            Console.Clear();
+
+            bst.BattleDialouge();
+            Console.ReadKey();
+
+            Battle(false, $"{bst.attackerName}", 25, 57);
         }
 
         //The Last battle combat 
@@ -133,6 +145,8 @@ namespace RPGStoreAssessment
         //The method to create the battle combat
         public static void Battle(bool cave, string name, int attack, int health)
         {
+            
+            Enemy z = new Enemy(); 
 
             if (cave)
             {
@@ -146,7 +160,7 @@ namespace RPGStoreAssessment
                 else if (enemyName() == "Bandit")
                 {
                     n = "Bandit";
-                    a = rnd.Next(10, 37);
+                    a = rnd.Next(10, 36);
                     h = rnd.Next(5, 25);
                 }
                 else if (enemyName() == "Beast")
@@ -186,6 +200,7 @@ namespace RPGStoreAssessment
                 //The statement if the player wants to attack
                 if (input == "A" || input == "Attack")
                 {
+                    z.BattleDialouge();
 
                     int damage = a - (rnd.Next(0, Inventory.SumDefense()));
 
@@ -215,6 +230,8 @@ namespace RPGStoreAssessment
                 //The statement if the enemy wants to shield itself
                 else if (input == "S" || input == "Shield")
                 {
+                    z.ShieldDialougue();
+
                     int damage = (a / 3) - (rnd.Next(0, Inventory.SumDefense()));
 
                     if (damage < 0)
